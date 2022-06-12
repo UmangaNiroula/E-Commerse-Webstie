@@ -181,37 +181,37 @@ Customer Navigation Guidelines
 
 <img width="900" alt="Screen Shot 2022-06-12 at 9 16 49 PM" src="https://user-images.githubusercontent.com/53705624/173240666-b57c62dc-c222-463e-b872-46db937dbfcd.png">
 
-<img width="478" alt="Screen Shot 2022-06-12 at 9 17 13 PM" src="https://user-images.githubusercontent.com/53705624/173240678-b26c4d0d-b8ab-456e-9e25-c3fe9f425dc5.png">
+<img width="900" alt="Screen Shot 2022-06-12 at 9 17 13 PM" src="https://user-images.githubusercontent.com/53705624/173240678-b26c4d0d-b8ab-456e-9e25-c3fe9f425dc5.png">
 
 
-<img width="486" alt="Screen Shot 2022-06-12 at 9 17 36 PM" src="https://user-images.githubusercontent.com/53705624/173240701-35284c6e-3f9a-4446-9fc3-3b3d5246d830.png">
+<img width="900" alt="Screen Shot 2022-06-12 at 9 17 36 PM" src="https://user-images.githubusercontent.com/53705624/173240701-35284c6e-3f9a-4446-9fc3-3b3d5246d830.png">
 
 
-<img width="486" alt="Screen Shot 2022-06-12 at 9 17 47 PM" src="https://user-images.githubusercontent.com/53705624/173240713-80d7bf70-e3a4-41cf-a5f3-b5e4b449e7e5.png">
+<img width="900" alt="Screen Shot 2022-06-12 at 9 17 47 PM" src="https://user-images.githubusercontent.com/53705624/173240713-80d7bf70-e3a4-41cf-a5f3-b5e4b449e7e5.png">
 
 
-<img width="486" alt="Screen Shot 2022-06-12 at 9 18 00 PM" src="https://user-images.githubusercontent.com/53705624/173240720-5e6e760b-9814-413e-8db2-b19d75855d3a.png">
+<img width="900" alt="Screen Shot 2022-06-12 at 9 18 00 PM" src="https://user-images.githubusercontent.com/53705624/173240720-5e6e760b-9814-413e-8db2-b19d75855d3a.png">
 
 
 
 # Admin Panel
 
 
-<img width="455" alt="Screen Shot 2022-06-12 at 9 18 37 PM" src="https://user-images.githubusercontent.com/53705624/173240741-14df80c6-aebd-4dfb-86dc-2dceb4682364.png">
+<img width="900" alt="Screen Shot 2022-06-12 at 9 18 37 PM" src="https://user-images.githubusercontent.com/53705624/173240741-14df80c6-aebd-4dfb-86dc-2dceb4682364.png">
 
 
-<img width="480" alt="Screen Shot 2022-06-12 at 9 18 56 PM" src="https://user-images.githubusercontent.com/53705624/173240753-3e9b2e6a-ac1e-4266-becb-ac737456b2bb.png">
+<img width="900" alt="Screen Shot 2022-06-12 at 9 18 56 PM" src="https://user-images.githubusercontent.com/53705624/173240753-3e9b2e6a-ac1e-4266-becb-ac737456b2bb.png">
 
 
-<img width="480" alt="Screen Shot 2022-06-12 at 9 19 11 PM" src="https://user-images.githubusercontent.com/53705624/173240772-6645d5b5-2b1f-40c4-9ab5-5d594a842ac8.png">
+<img width="900" alt="Screen Shot 2022-06-12 at 9 19 11 PM" src="https://user-images.githubusercontent.com/53705624/173240772-6645d5b5-2b1f-40c4-9ab5-5d594a842ac8.png">
 
 
-<img width="487" alt="Screen Shot 2022-06-12 at 9 19 30 PM" src="https://user-images.githubusercontent.com/53705624/173240800-a9771cc5-26b7-4476-879e-59be65f875ce.png">
+<img width="900" alt="Screen Shot 2022-06-12 at 9 19 30 PM" src="https://user-images.githubusercontent.com/53705624/173240800-a9771cc5-26b7-4476-879e-59be65f875ce.png">
 
 
-<img width="494" alt="Screen Shot 2022-06-12 at 9 19 49 PM" src="https://user-images.githubusercontent.com/53705624/173240816-de2ca7fc-556d-41e0-80f0-d32dfc781f46.png">
+<img width="900" alt="Screen Shot 2022-06-12 at 9 19 49 PM" src="https://user-images.githubusercontent.com/53705624/173240816-de2ca7fc-556d-41e0-80f0-d32dfc781f46.png">
 
 
-<img width="485" alt="Screen Shot 2022-06-12 at 9 20 36 PM" src="https://user-images.githubusercontent.com/53705624/173240904-75171451-93a6-4697-8bdf-1bc789b187df.png">
+<img width="900" alt="Screen Shot 2022-06-12 at 9 20 36 PM" src="https://user-images.githubusercontent.com/53705624/173240904-75171451-93a6-4697-8bdf-1bc789b187df.png">
 
 
