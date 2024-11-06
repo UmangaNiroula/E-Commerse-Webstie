@@ -1,6 +1,7 @@
+# Elevator Pitch
 This e-commerce website was developed as a solo college project to meet the collective goals of local shopkeepers aiming to expand their market reach through a unified online platform. Built using PHP, HTML, CSS, JavaScript, and SQL Oracle Database, the site features distinct user panels for administrators, customers, and traders. Each panel offers dedicated functionality, such as product management, order tracking, and sales monitoring. The project is hosted using XAMPP Server with secure payment processing via PayPal's API, showcasing skills in full-stack development, database management, and API integration.
 
-# User Guidelines (User Panel)
+# E-Grocer Basket
 
 CUSTOMER GUIDELINE
 	Registration and Sign in Guidelines
